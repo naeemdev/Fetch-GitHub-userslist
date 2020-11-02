@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub users</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="text_post_header">imageplaceholdertext</string>
+    <string name="search">Type here</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="note">Note:</string>
+    <string name="enternote">Enter your note Here</string>
+    <string name="save">Save</string>
+    <string name="pleaseenternote">Please ent note</string>
+    <string name="noteadded">Note added</string>
+</resources>
