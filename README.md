@@ -24,11 +24,13 @@ Built With 🛠
         ViewModel - Stores UI-related data that isn't destroyed on UI changes.
         ViewBinding - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
         Room - SQLite object mapping library.
+        
     Dependency Injection -
         Hilt-Dagger - Standard library to incorporate Dagger dependency injection into an Android application.
         Hilt-ViewModel - DI for injecting ViewModel.
-   Retrofit - A type-safe HTTP client for Android and Java.
-   Coil-kt - An image loading library for Android backed by Kotlin Coroutines.
+        
+    Retrofit - A type-safe HTTP client for Android and Java.
+    Coil-kt - An image loading library for Android backed by Kotlin Coroutines.
    
    
    
